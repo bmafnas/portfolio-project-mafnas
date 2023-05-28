@@ -135,6 +135,7 @@ footer .social-links a:hover {
 
 .aboutpic {
   border-radius: 14px;
+  max-width: 500px;
 }
 
 .content-container {
