@@ -12,7 +12,6 @@ body {
 h1,
 h2,
 h3,
-h4,
 h5,
 h6 {
   color: black;
@@ -29,7 +28,7 @@ h2 {
   font-size: 64px;
 }
 
-h4 {
+h3 {
   font-size: 48px;
 }
 
@@ -114,12 +113,8 @@ footer .social-links a:hover {
     font-size: 44px;
   }
 
-  h4 {
+  h3 {
     font-size: 26px;
-  }
-
-  .hero {
-    padding: 80px 20px;
   }
 
   .content {
@@ -139,7 +134,7 @@ footer .social-links a:hover {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content h1 {
@@ -170,7 +165,7 @@ footer .social-links a:hover {
 .hero {
   background: #f9f7fe;
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .hero p {
